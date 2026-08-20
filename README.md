@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayleo35&theme=tokyo-night&hide_border=true" alt="Sanjay's Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayleo35&theme=tokyo-night&hide_border=true" alt="My Activity Graph" width="97%" />
 </p>
 
 <br />
