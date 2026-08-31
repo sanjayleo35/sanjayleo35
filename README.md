@@ -92,15 +92,13 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-26-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" /> &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-7-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /> &nbsp;
-  <img src="https://img.shields.io/badge/Total_Stars-57-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://github-profile-trophies.vercel.app/?username=sanjayleo35&theme=tokyonight&no-frame=true&column=3" alt="Sanjay's GitHub Trophies" width="97%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> &nbsp;
-  <img src="https://img.shields.io/badge/Infrastructure-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> &nbsp;
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Total_Contributions-26-blue?style=for-the-badge&logo=github" alt="Contributions" /> &nbsp;
+  <img src="https://img.shields.io/badge/Public_Repos-7-green?style=for-the-badge&logo=github" alt="Repos" /> &nbsp;
+  <img src="https://img.shields.io/badge/Total_Stars-57-yellow?style=for-the-badge&logo=github" alt="Stars" />
 </p>
 
 <br />
