@@ -92,10 +92,7 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=sanjayleo35&theme=tokyonight&no-frame=true&column=3" alt="Sanjay's GitHub Trophies" width="97%" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjayleo35&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> &nbsp;
   <img src="https://img.shields.io/badge/Total_Contributions-26-blue?style=for-the-badge&logo=github" alt="Contributions" /> &nbsp;
   <img src="https://img.shields.io/badge/Public_Repos-7-green?style=for-the-badge&logo=github" alt="Repos" /> &nbsp;
   <img src="https://img.shields.io/badge/Total_Stars-57-yellow?style=for-the-badge&logo=github" alt="Stars" />
