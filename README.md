@@ -97,6 +97,10 @@
   <img src="https://img.shields.io/badge/Total_Stars-57-yellow?style=for-the-badge&logo=github" alt="Stars" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2088FF/sanjayleo35" alt="Sanjay's Contribution Graph" width="97%" />
+</p>
+
 <br />
 
 ---
